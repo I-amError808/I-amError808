@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... (Dark_Hacking)
 - 💞️ I’m looking to collaborate on ... (cybersecurity)
 - 📫 How to reach me ... (Terminal)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... Duhhhhh
+- ⚡ Fun fact: ...I am only 15 years old 
 
 <!---
 I-amError808/I-amError808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
